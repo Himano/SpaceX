@@ -1,0 +1,50 @@
+.home {
+  background: radial-gradient(#525252, #131313);
+}
+
+.navContainer {
+  background: #1a1919;
+}
+
+nav {
+  width: 80%;
+  margin: auto;
+  min-height: 10vh;
+  padding: 20px 0;
+}
+
+#logo {
+  width: 300px;
+}
+
+/* global rules */
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+a:hover {
+  opacity: 1;
+}
+
+.quote {
+  font-style: italic;
+}
+/*# sourceMappingURL=styles.css.map */

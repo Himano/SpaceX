@@ -1,0 +1,35 @@
+@import 'home';
+ 
+ /* global rules */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+
+body {
+
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+a:hover {
+    opacity: 1;
+}
+
+.quote {
+    font-style: italic
+}
+
